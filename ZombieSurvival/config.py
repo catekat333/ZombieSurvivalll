@@ -1,0 +1,8 @@
+GAME_NAME = "Zombie Survival"
+
+WINDOW_WIDTH = 1280
+WINDOW_HEIGHT = 720
+
+VERSION = "0.1 Alpha"
+
+FULLSCREEN = False
